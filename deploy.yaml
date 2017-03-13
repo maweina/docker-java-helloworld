@@ -11,4 +11,4 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: 10.211.56.105/sky-firmament/helloworld
+        image: registry.harbor:5000/default/helloworld
